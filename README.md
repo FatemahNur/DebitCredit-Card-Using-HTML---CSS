@@ -8,10 +8,6 @@ This project demonstrates a stylish debit card design using the Glassmorphism ef
 - **Responsive Layout**: The design is responsive and adjusts to different screen sizes.
 - **Custom Fonts**: Utilizes Google Fonts for a clean, modern look.
 
-## Demo
-
-![Glassmorphism Debit Card](path/to/your/demo/image.png)
-
 ## Getting Started
 
 ### Prerequisites
