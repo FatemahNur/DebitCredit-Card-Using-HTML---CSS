@@ -13,3 +13,6 @@ This project demonstrates a stylish debit card design using the Glassmorphism ef
 ### Prerequisites
 
 - A modern web browser (e.g., Chrome, Firefox, Safari)
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
